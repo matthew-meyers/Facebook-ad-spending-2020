@@ -23,9 +23,9 @@ Data Citations:
 Foster-Molina, Ella. “Historical Congressional Legislation and District Demographics 1972-2014.” Harvard Dataverse. Harvard Dataverse, May 9, 2019. https://doi.org/10.7910/DVN/CI2EPI. 
 
 “Gap between Rich and Poor, by State in the U.S. 2019.” Statista, September 20, 2021. https://www.statista.com/statistics/227249/greatest-gap-between-rich-and-poor-by-us-state/. 
-![image](https://user-images.githubusercontent.com/99142695/152745118-36ebd551-8272-4361-ae6a-7e8ae898d629.png)
 
-Hernson, Paul S., Atiya Kai Stokes-Brown, and Matthew Hindman. "Constituency Characteristics, Strategic Considerations, and Candidate Internet Use in State Legislative Elections." Public Research Quarterly 60, no. 1. Accessed December 19, 2021. https://journals.sagepub.com/doi/pdf/10.1177/1065912906298527.![image](https://user-images.githubusercontent.com/99142695/152745212-6827cf40-603b-4da1-9d64-203c47a23e5c.png)
+
+Hernson, Paul S., Atiya Kai Stokes-Brown, and Matthew Hindman. "Constituency Characteristics, Strategic Considerations, and Candidate Internet Use in State Legislative Elections." Public Research Quarterly 60, no. 1. Accessed December 19, 2021. https://journals.sagepub.com/doi/pdf/10.1177/1065912906298527.
 
 “Online Political Ad Spending.” OpenSecrets. Accessed December 21, 2021. https://www.opensecrets.org/online-ads?sort=fb_total_desc. 
 
@@ -39,6 +39,6 @@ Hernson, Paul S., Atiya Kai Stokes-Brown, and Matthew Hindman. "Constituency Cha
 “U.S. States: Median Age 2019.” Statista, September 20, 2021. https://www.statista.com/statistics/208048/median-age-of-population-in-the-usa-by-state/.
 
 Whitcomb, Ryan, Joung Min Choi, and Bo Guan. “State Demographics CSV File.” CORGIS Datasets Project. Accessed December 21, 2021. https://corgis-edu.github.io/corgis/csv/state_demographics/. 
-![image](https://user-images.githubusercontent.com/99142695/152745274-36c08b6c-90a9-49d5-af0e-a644ea80b7cb.png)
+
 
 Note: If you believe that you have found an error in the merging of these datasets, please send me a private message.
